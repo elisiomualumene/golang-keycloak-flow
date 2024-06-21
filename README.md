@@ -1,1 +1,1 @@
-# golang-keycloak-flow
+# Golang Authentication with Keycloak
